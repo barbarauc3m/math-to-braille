@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-magic
+pix2tex[api]
+Pillow
+pytest
+httpx
